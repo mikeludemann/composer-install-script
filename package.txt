@@ -1,0 +1,12 @@
+laravel/framework
+laravel/cashier
+laravel/envoy
+laravel/passport
+laravel/scout
+laravel/socialite
+barryvdh/laravel-debugbar
+intervention/image
+caouecs/laravel-lang
+spatie/laravel-permission
+spatie/laravel-sitemap
+phpunit/phpunit
